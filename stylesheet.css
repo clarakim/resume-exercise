@@ -1,0 +1,106 @@
+
+  section 
+  {
+  	clear: both;
+  	overflow: hidden;
+  	background-color:
+  }
+  
+  body
+  {
+  font-family: 'Roboto Condensed', sans-serif; 
+  background: url("Backdrop_col8.jpg");
+  background-size: 1800px 1000px;
+  background-origin:1;
+
+  }
+
+  h1
+  {
+  letter-spacing: 4px;
+  }
+
+
+  h2
+  {
+  font-weight: 700px;
+  background-color: #336767;
+  color:white;
+  width:280px;
+  }
+
+  h3
+  {font-weight:400px
+  }
+
+  a:link
+  {  
+  color: grey;
+  }
+
+  a:hover 
+  {
+    color:white;
+    background-color: grey
+  }
+
+
+
+  #resume
+  {
+    width:800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+
+  }
+
+  #name
+  {font-size: 3em;
+  }
+
+  #job
+  {
+  background-color: black;
+  }
+
+  .left-panel
+  {
+  	float:left;
+  	width: 300px;
+   font-family: Arial, Sans-serif;	
+  }
+  .left-lists
+  {color:aqua;
+
+
+  }
+  .right-panel
+  {
+  	float:right;
+  	width: 500px;
+   }
+  
+
+   #contact-info
+   {
+  font-style: italic;
+   float:right;
+   }
+
+   #profile-pic
+   {float: right;
+    margin-left: 10px;
+   }
+
+
+  .text-right
+  {
+    text-align: right;
+  }
+
+  hr{
+    background-color: #F16667;
+    height: 1px;
+    border: 0px;
+  }
