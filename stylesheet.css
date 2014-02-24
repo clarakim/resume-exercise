@@ -9,9 +9,9 @@
   body
   {
   font-family: 'Roboto Condensed', sans-serif; 
-  background: url("Backdrop_col8.jpg");
+  background: url("Backdrop_col8.png");
   background-size: 1800px 1000px;
-  background-origin:1;
+  background-origin:0.95;
 
   }
 
